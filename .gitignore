@@ -1,0 +1,13 @@
+# Environment / secrets
+.env
+
+# Runtime
+storage/logs/*
+storage/*.pid
+
+# Local test/runtime files
+test_cookie.txt
+password-test.php
+
+# Root temporary test scripts
+/test_*.php
